@@ -1,0 +1,4 @@
+*.exe
+*.log
+old_release/*.dll
+!first_release_backup.exe
